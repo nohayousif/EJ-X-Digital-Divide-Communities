@@ -1,0 +1,10 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#map {
+    flex: 1;
+    width: 100%
+}
